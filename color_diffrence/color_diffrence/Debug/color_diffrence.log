@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  color_diffrence.cpp
+e:\opencv\build\include\opencv2\calib3d.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\desktop\vision_homework\color_diffrence\color_diffrence\color_diffrence.cpp(51): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\color_diffrence\color_diffrence\color_diffrence.cpp(110): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\color_diffrence\color_diffrence\color_diffrence.cpp(111): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\color_diffrence\color_diffrence\color_diffrence.cpp(134): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\color_diffrence\color_diffrence\color_diffrence.cpp(153): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\color_diffrence\color_diffrence\color_diffrence.cpp(155): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\vision_homework\color_diffrence\color_diffrence\color_diffrence.cpp(285): warning C4101: 'total': 未參考的區域變數
+c:\users\user\desktop\vision_homework\color_diffrence\color_diffrence\color_diffrence.cpp(285): warning C4101: 'first': 未參考的區域變數
+c:\users\user\desktop\vision_homework\color_diffrence\color_diffrence\color_diffrence.cpp(285): warning C4101: 'third': 未參考的區域變數
+c:\users\user\desktop\vision_homework\color_diffrence\color_diffrence\color_diffrence.cpp(285): warning C4101: 'second': 未參考的區域變數
+c:\users\user\desktop\vision_homework\color_diffrence\color_diffrence\color_diffrence.cpp(347): warning C4244: '=': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+c:\users\user\desktop\vision_homework\color_diffrence\color_diffrence\color_diffrence.cpp(358): warning C4244: '正在初始化': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+c:\users\user\desktop\vision_homework\color_diffrence\color_diffrence\color_diffrence.cpp(399): warning C4018: '<': signed/unsigned 不相符
+opencv_world420d.lib(opencv_world420d.dll) : fatal error LNK1112: 模組電腦類型 'x64' 與目標電腦類型 'x86' 衝突
